@@ -6,9 +6,9 @@
       "properties": {
         "name": "Tramo 1",
         "distancia_km": 13.88,
-        "tiempo_min": 38.4,
-        "retraso_trafico_min": 1.9,
-        "actualizado": "2026-11-13 15:22 UTC"
+        "tiempo_min": 48.2,
+        "retraso_trafico_min": 5.4,
+        "actualizado": "2026-11-13 21:29 UTC"
       },
       "geometry": {
         "type": "LineString",
